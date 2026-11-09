@@ -1,5 +1,7 @@
 # Código de Mecánica de Medios Continuos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24092087.svg)](https://doi.org/10.5281/zenodo.24092087)
+
 Librería y scripts que acompañan al libro de problemas. Solo tienen script los problemas cuyo cálculo va más allá de la calculadora o en los que conviene ver un gráfico.
 
 ## Inicio rápido
@@ -34,6 +36,10 @@ Las figuras generadas se guardan en `salida/`, o en la carpeta que indique la va
 ```bash
 python3 -m unittest discover -s tests -t .
 ```
+
+## Cómo citar
+
+Usa el DOI [10.5281/zenodo.24092087](https://doi.org/10.5281/zenodo.24092087), que representa todas las versiones y remite siempre a la última.
 
 ## Licencia
 
